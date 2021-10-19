@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [yolharitam](https://github.com/abdullaherek/yolharitam)
 
-- 💬 Ask me about **react, next.js, redux**
+- 💬 Ask me about **react, next.js, redux, javascript**
 
 - 📫 How to reach me **abdullah.erek@outlook.com**
 
