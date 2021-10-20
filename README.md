@@ -6,8 +6,8 @@
 - 💬 Ask me about **react, next.js, redux, javascript**
 
 - 📫 How to reach me **abdullah.erek@outlook.com**
-
 - 📙 Social => 
+
 <a href="https://www.linkedin.com/in/abdullaherek/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 <h3 align="left">Languages and Tools:</h3>
